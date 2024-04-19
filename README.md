@@ -2,7 +2,7 @@
 
 Welcome to Motion Sync EMR Patient Notes repository! This repository hosts the patient notes section for Motion Sync EMR, an electronic medical records (EMR) solution designed to streamline the documentation of patient encounters.
 
-![Motion Sync EMR Logo](images/motion_sync_logo.png)
+![Motion Sync EMR Logo](images/2.jpg)
 
 ## Overview
 
