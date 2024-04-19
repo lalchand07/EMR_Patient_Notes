@@ -22,11 +22,20 @@ This repository includes the following types of notes/forms:
 
 1. **Patient Evaluation Forms**: Comprehensive forms for initial patient assessments, including medical history, symptoms, and examinations.
 
+   ![Physical Therapy Evaluation Form](images/Physical_Therapy_Evaluation_Form_Motion_Sync_EMR.png)
+
 2. **Daily SOAP Notes**: SOAP (Subjective, Objective, Assessment, Plan) notes for daily patient encounters, ensuring systematic documentation.
+
+   ![PT Daily Treatment SOAP Note](images/PT_Daily_Treatment_SOAP_Note_Motion_Sync_EMR.png)
 
 3. **Missed Visit Notes**: Forms for documenting missed patient appointments and the reasons behind them, aiding in follow-up and rescheduling.
 
+   ![Missed Visit Note](images/Missed_Visit_Note_Motion_Sync_EMR.png)
+
 4. **Patient Progress Notes**: Forms to track and document the progress of patients over time, including changes in symptoms, treatments, and outcomes.
+
+   ![Physical Therapy Progress Note](images/Physical_Therapy_Progress_Note_Motion_Sync_EMR.png)
+
 
 ## Getting Started
 
