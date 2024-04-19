@@ -23,4 +23,4 @@ To get started with Motion Sync EMR Patient Notes, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/Motion-Sync-EMR-Patient-Notes.git
+   git clone https://github.com/lalchand07/EMR_Patient_Notes.git
