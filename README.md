@@ -16,6 +16,18 @@ Motion Sync EMR Patient Notes is a crucial component of the Motion Sync EMR syst
   
 - **Customization**: Tailor the patient notes section to suit the specific needs and workflows of different healthcare settings.
 
+## Included Notes/Forms
+
+This repository includes the following types of notes/forms:
+
+1. **Patient Evaluation Forms**: Comprehensive forms for initial patient assessments, including medical history, symptoms, and examinations.
+
+2. **Daily SOAP Notes**: SOAP (Subjective, Objective, Assessment, Plan) notes for daily patient encounters, ensuring systematic documentation.
+
+3. **Missed Visit Notes**: Forms for documenting missed patient appointments and the reasons behind them, aiding in follow-up and rescheduling.
+
+4. **Patient Progress Notes**: Forms to track and document the progress of patients over time, including changes in symptoms, treatments, and outcomes.
+
 ## Getting Started
 
 To get started with Motion Sync EMR Patient Notes, follow these steps:
