@@ -1,0 +1,86 @@
+@media print {
+*{text-align: left!important; margin: 0; padding: 0;}
+@page {
+text-align: left !important;
+margin: 15mm .05mm 15mm .05mm;
+padding: 0;
+size:A4 portrait;}
+/* @page :left {bleed: 10pt;}
+@page :bottom {bleed: 5cm;} */
+
+.review-itinerary {
+    width: 100%;
+    min-width: 100%;
+	/* border: 1px solid #990000; */
+}
+
+/* .passenger-header{
+    padding: 15px 20px !important;
+    margin: 0 !important;
+}
+.passenger-header ul li{width: 100%; display: block;}
+.outbound-flight .flight-fare-with-detail,.flight-airline-info, .review-info{float:none; width: 100% !important; min-width: 100% !important; display:block !important; margin: 0 !important; padding: 0; }
+.airline-logo{display: inline-flex; width: 30% !important; min-width: 30% !important; float: left;   flex:auto;}
+.airline-logo img{max-width:100%;}
+.airline-city{display: inline-flex; width: 20% !important; min-width: 20% !important; float: left;  flex: auto;}
+.time-stop{display: inline-flex; width: 30% !important; min-width: 30% !important; float: left; flex: auto;}
+div.flights-detail-pannel-main{clear: both !important;}
+.review-itinerary .review-info .time-stop .svg.toPlane {transform: rotate(90deg) !important;}
+.review-itinerary .review-info .time-stop {margin-top: 0 !important; position: relative !important;}
+.review-itinerary .review-info .time-stop p{margin-top: -25px !important;}
+.time-stop::after {content: "";position: absolute;max-width: 105px;height: 1px;}
+.flights-detail-pannel-main{width: 100%;display: block;}
+.review-itinerary .flights-detail-pannel {padding: 0 !important;}
+.flights-detail-section .flight-airline-info .airline-city{display: inline-flex;align-items: center;justify-content: center;width: 30% !important;}
+.logo-with-time-stop{display: inline-flex;align-items: center;justify-content: center;width: 40% !important;flex-direction: column;}
+.flight-airline-info{display: flex !important;flex-direction: row !important; align-items: center !important;margin: 0 !important; padding: 0 !important;}
+.flight-airline-footer{display: flex !important;flex-direction: row !important;}
+.flight-airline-footer .luggage{min-width: 200px;}
+.continue-booking{display: none;}
+.flights-detail-pannel .flight-detail-heading h4 {margin: 0;padding: 15px 20px;}
+.review-itinerary .best-price-match-flight-detail .flight-airline-footer {margin-top: 0;padding: 5px 15px 15px 15px;}
+.flights-detail-pannel-main .passenger-header {display: none !important;}
+.customer-support {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+.customer-support h5 {font-weight: 400;margin-bottom: 0;margin-right: 15px;} */
+
+
+
+/* .row.container-print {padding: 25px 30px;} */
+.flight-fare-with-detail{width: 100% !important;display: block !important;min-width: 100% !important;padding: 0 15px !important;margin: 0 !important;}
+.review-itinerary .flight-airline-info {border-bottom: 0 !important;padding-bottom: 0 !important;margin-top: 0 !important;}
+.review-info{display: block; width: 100%;}
+.flight-airline-info{display: flex !important;flex-direction: row !important;align-items: center !important;}
+.airline-logo{width: 30% !important; min-width: 30% !important;}
+.airline-city{width: 20% !important; min-width: 20% !important;}
+.time-stop{width: 30% !important; min-width: 30% !important;margin: 0 !important;text-align: center !important;}
+.review-itinerary .review-info .time-stop .svg.toPlane {transform: rotate(90deg);}
+.flights-detail-pannel-main .passenger-header {display: none;}
+.review-itinerary .passenger-header {padding: 10px 28px !important;margin: 0 !important;}
+.review-itinerary .passenger-header ul{display: block !important;text-align: left !important;}
+.review-itinerary .flights-detail-pannel {padding: 0 15px !important;}
+.flights-detail-pannel .flight-detail-heading h4 {margin-top: 0 !important;padding: 14px 15px !important;}
+.flights-detail-section{page-break-inside:avoid;}
+.flights-detail-section .flight-airline-info .airline-city{display:flex !important;flex-direction: column !important; align-items: center !important;justify-content: center !important;width: 30% !important;}
+.logo-with-time-stop{display: flex !important;flex-direction: column !important;align-items: center !important;justify-content: center !important;width: 40% !important;}
+.flights-detail-pannel .airline-city p:nth-of-type(3), .flights-detail-pannel .airline-city p:nth-of-type(5) {margin-top: 0 !important;}
+.time-stop .svg.toPlane {transform: rotate(90deg) !important;margin-left: -18px !important;}
+.flight-airline-footer{display: flex !important;flex-direction: row !important;margin-top: 0;padding: 5px 15px 15px 15px;}
+.review-itinerary .best-price-match-flight-detail .flight-airline-footer {margin-top: 0;padding: 5px 15px 15px 15px;}
+.flight-airline-footer .luggage{min-width: 200px;}
+.customer-support {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+.customer-support h5 {font-weight: 400;margin-bottom: 0;margin-right: 15px;}
+.brand-logo {text-align: center;max-width: 164px;margin: auto auto 13px auto;display: block;}
+.continue-booking{display: none !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+}
